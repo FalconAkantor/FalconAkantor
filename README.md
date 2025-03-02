@@ -28,7 +28,6 @@
 ---
 
 <div align="center">
-  <h3>🐍 Mi contribución al ecosistema 🐍</h3>
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Animación Snake" />
 </div>
 
