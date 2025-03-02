@@ -22,12 +22,13 @@
 
 <div align="center">
   <h3>🚀 Un poco más sobre mí 🚀</h3>
-  <p>Cuando no estoy desentrañando los misterios de la ciberseguridad, me gusta experimentar con nuevas tecnologías y aprender cada día algo nuevo.🧠⚙️</p>
+  <p>Cuando no estoy desentrañando los misterios de la ciberseguridad, me gusta experimentar con nuevas tecnologías y aprender cada día algo nuevo. 🧠⚙️</p>
 </div>
 
 ---
 
 <div align="center">
+  <h3>🐍 Mi contribución al ecosistema 🐍</h3>
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Animación Snake" />
 </div>
 
