@@ -1,6 +1,6 @@
 {
  "user": "FalconAkantor",
- "fetched_at": "2026-11-24T15:55:15Z",
+ "fetched_at": "2026-11-25T15:39:12Z",
  "total": 4,
  "days": [
   {
@@ -1835,6 +1835,11 @@
   },
   {
    "date": "2026-11-24",
+   "level": 0,
+   "count": 0
+  },
+  {
+   "date": "2026-11-25",
    "level": 0,
    "count": 0
   }
